@@ -1,22 +1,5 @@
 
 
-Onde será possível:
-- Cadastrar ONGS;
-- Fazer Login (Modificando o original, foi feito autenticação via token JWT);
-- Listar Casos;
-- Criar Casos;
-Feito Com
-Abaixo segue o que foi utilizado na criação deste backend:
-
-ADONISJS
-KNEXJS
-POSTGRES
-Começando
-Para começar a utilizar este projeto é necessário clonar o repositório, executar o comando npm install ou yarn install para realizar download das dependências e ter o Framework AdonisJS, PostgreSQL, configurar o arquivo .env de acordo com sua necessidade.
-
-OBS.:
-Este projeto é conteúdo desenvolvido na semana OmniStack11 disponibilizado pela Rocketseat, desde já muito obrigado pelo o conteúdo "massinha".
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -89,6 +72,8 @@ Na aplicação Mobile Android - iOS
 
 
 ### Instalação
+
+Para começar a utilizar este projeto é necessário clonar o repositório, executar o comando npm install ou yarn install para realizar download das dependências, PostgreSQL, configurar o arquivo .env de acordo com sua necessidade.
 
 2. Clone o repo
 ```sh
