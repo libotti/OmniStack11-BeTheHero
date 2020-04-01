@@ -124,7 +124,7 @@ Link do Projeto: [https://github.com/libotti/OmniStack11-BeTheHero](https://gith
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/libotti
-[product-screenshot]: images/inicio.png
+[product-screenshot]: ARQUIVOS/03-ASSETS-FRONTEND/assets/heroes.png
 [product-screenshot-profile]: images/profile.png
 [product-screenshot-iniciando-app]: images/home-app.png
 [product-screenshot-profile-app]: images/home-app.png
