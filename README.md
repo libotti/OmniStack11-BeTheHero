@@ -40,6 +40,7 @@
 ## Sobre o Projeto
 
 ![Be the Hero início][product-screenshot]
+![Be the Hero frontend][product-screenshot2]
 
 Esse projeto foi desenvolvido durante a semana OmniStack da RocketSeat, a fim de desenvolver uma aplicação completa para conectar ONGs e pessoas interessadas em ajudar em algum caso relatado pela Instituição.
 O projeto deve prover um backend em NodeJS, Frontend em ReactJs e aplicação Mobile em React Native.
@@ -108,7 +109,7 @@ npm install
 
 ### Aplicação WEB
 
-O logon é feito através de um id gerado pelo Backend usando a **biblioteca Crypto** após a chamada da API de criação de ONG e validação dos dados enviados com a **biblioteca Celebrate**.
+O logon é feito através de um id gerado pelo Backend usando a **biblioteca Crypto** após a chamada da API de criação de ONG e validação dos dados enviados.
 <img src="images/inicio.png" alt="Logon" width="600" heigth="600">
 
 Tela de perfil da ONG
@@ -153,8 +154,5 @@ Link do Projeto: [https://github.com/libotti/OmniStack11-BeTheHero](https://gith
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/libotti
-[product-screenshot]: ARQUIVOS/images/heroes.png
-[product-screenshot-profile]: ARQUIVOS/images/profile.png
-[product-screenshot-iniciando-app]: ARQUIVOS/images/home.png
-[product-screenshot-profile-app]: ARQUIVOS/images/profile.png
-[product-screenshot-detalhes-app]: ARQUIVOS/images/details.png
+[product-screenshot]: ARQUIVOS/images/2020-04-02_00_16_46-27.png
+[product-screenshot2]: ARQUIVOS/images/2020-04-02_00_17_54-27.png
