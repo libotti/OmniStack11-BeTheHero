@@ -94,11 +94,19 @@ cd ../frontend
 ```sh
 npm install
 ```
+4. Entre no diretorio do Projeto Mobile
+```sh
+cd ../mobile
+```
+5. Instale pacotes NPM
+```sh
+npm install
+```
 
 <!-- USO -->
 ## Uso
 
-Aplicação WEB
+### Aplicação WEB
 
 O logon é feito através de um id gerado pelo Backend usando a **biblioteca Crypto** após a chamada da API de criação de ONG e validação dos dados enviados com a **biblioteca Celebrate**.
 <img src="images/inicio.png" alt="Logon" width="600" heigth="600">
@@ -109,10 +117,20 @@ Tela de perfil da ONG
 
 <img src="images/profile.png" alt="Profile" width="600" heigth="600">
 
-Aplicação React Native 
+### Aplicação React Native 
 
 <img src="images/iniciando-app.png" alt="Iniciando App" width="200" heigth="400"> <img src="images/home-app.png" alt="Home App" width="200" heigth="400">
 <img src="images/detalhes-app.png" alt="Detalhes App" width="200" heigth="400">
+
+### Aplicação Mobile
+
+Antes de executar, iniciar o backend deste projeto.
+
+A partir da raiz do projeto, entre na pasta do frontend web rodando cd mobile;
+Rode yarn para instalar as dependências;
+Rode yarn start ou expo start para iniciar o bundle com o expo;
+Caso vá utilizar emulador, basta clicar na opção Run on ...;
+Caso vá utilizar seu smartphone, com o app do expo escaneie o QRCODE;
 
 <!-- CONTRIBUIÇÃO -->
 ## Contribuição
