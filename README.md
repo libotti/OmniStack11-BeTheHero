@@ -94,11 +94,11 @@ cd ../frontend
 ```sh
 npm install
 ```
-4. Entre no diretorio do Projeto Mobile
+6. Entre no diretorio do Projeto Mobile
 ```sh
 cd ../mobile
 ```
-5. Instale pacotes NPM
+7. Instale pacotes NPM
 ```sh
 npm install
 ```
@@ -126,7 +126,7 @@ Tela de perfil da ONG
 
 Antes de executar, iniciar o backend deste projeto.
 
-A partir da raiz do projeto, entre na pasta do frontend web rodando cd mobile;
+Entre na pasta do projeto mobile usando cd mobile;
 Rode yarn para instalar as dependências;
 Rode yarn start ou expo start para iniciar o bundle com o expo;
 Caso vá utilizar emulador, basta clicar na opção Run on ...;
