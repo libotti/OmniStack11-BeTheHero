@@ -72,13 +72,25 @@ Na aplicação Mobile Android - iOS
 
 ### Instalação
 
-Para começar a utilizar este projeto é necessário clonar o repositório, executar o comando npm install ou yarn install para realizar download das dependências, PostgreSQL, configurar o arquivo .env de acordo com sua necessidade.
+Para começar a utilizar estes projetos é necessário clonar o repositório, executar o comando npm install ou yarn install para realizar download das dependências (repetir o processo nas pastas dos projetos backend e frontend) e configurar o arquivo .env de acordo com sua necessidade.
 
-2. Clone o repo
+1. Clone o repo
 ```sh
 git clone https://github.com/libotti/OmniStack11-BeTheHero.git
 ```
+2. Entre no diretorio do Projeto Backend
+```sh
+cd backend
+```
 3. Instale pacotes NPM
+```sh
+npm install
+```
+4. Entre no diretorio do Projeto Frontend
+```sh
+cd ../frontend
+```
+5. Instale pacotes NPM
 ```sh
 npm install
 ```
