@@ -16,7 +16,6 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/libotti/OmniStack11-BeTheHero"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
     <a href="https://github.com/libotti/OmniStack11-BeTheHero/issues">Reporte um Bug</a>
@@ -124,8 +123,8 @@ Link do Projeto: [https://github.com/libotti/OmniStack11-BeTheHero](https://gith
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/libotti
-[product-screenshot]: ARQUIVOS/03-ASSETS-FRONTEND/assets/heroes.png
-[product-screenshot-profile]: images/profile.png
-[product-screenshot-iniciando-app]: images/home-app.png
-[product-screenshot-profile-app]: images/home-app.png
-[product-screenshot-detalhes-app]: images/detalhes-app.png
+[product-screenshot]: ARQUIVOS/images/heroes.png
+[product-screenshot-profile]: ARQUIVOS/images/profile.png
+[product-screenshot-iniciando-app]: ARQUIVOS/images/home.png
+[product-screenshot-profile-app]: ARQUIVOS/images/profile.png
+[product-screenshot-detalhes-app]: ARQUIVOS/images/details.png
