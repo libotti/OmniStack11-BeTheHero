@@ -39,9 +39,6 @@
 <!-- SOBRE O PROJETO -->
 ## Sobre o Projeto
 
-![Be the Hero início][product-screenshot]
-![Be the Hero frontend][product-screenshot2]
-
 Esse projeto foi desenvolvido durante a semana OmniStack da RocketSeat, a fim de desenvolver uma aplicação completa para conectar ONGs e pessoas interessadas em ajudar em algum caso relatado pela Instituição.
 O projeto deve prover um backend em NodeJS, Frontend em ReactJs e aplicação Mobile em React Native.
 
@@ -107,21 +104,18 @@ npm install
 <!-- USO -->
 ## Uso
 
-### Aplicação WEB
+### Aplicação WEB Frontend
 
 O logon é feito através de um id gerado pelo Backend usando a **biblioteca Crypto** após a chamada da API de criação de ONG e validação dos dados enviados.
-<img src="images/inicio.png" alt="Logon" width="600" heigth="600">
+
+![Be the Hero início][product-screenshot]
+![Be the Hero frontend][product-screenshot2]
 
 Tela de perfil da ONG
 
 É onde é feito a listagem, inserção e exclusão de **Casos** específicos da ONG logada
 
-<img src="images/profile.png" alt="Profile" width="600" heigth="600">
 
-### Aplicação React Native 
-
-<img src="images/iniciando-app.png" alt="Iniciando App" width="200" heigth="400"> <img src="images/home-app.png" alt="Home App" width="200" heigth="400">
-<img src="images/detalhes-app.png" alt="Detalhes App" width="200" heigth="400">
 
 ### Aplicação Mobile
 
