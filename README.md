@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="hhttps://github.com/libotti/OmniStack11-BeTheHero">
-    <img src="images/logo.png" alt="Logo">
+    <img src="ARQUIVOS/03%20-%20ASSETS%20FRONTEND/assets/logo.svg" alt="Logo">
   </a>
 
   <h3 align="center">Projeto Be The Hero - Rocketseat</h3>
